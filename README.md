@@ -7,5 +7,5 @@ The data used for this project:[Data](https://github.com/ankit141193/Random-Fore
 
 HDInsight cluster on Azure with the following configuration.
 
-Head nodes:D12 v2 (x2), worker nodes: D12 v2 (x2)
-Spark version: 2.2
+* Head nodes:D12 v2 (x2), worker nodes: D12 v2 (x2)
+* Spark version: 2.2
