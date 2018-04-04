@@ -1,4 +1,3 @@
-### Random-Forest-Using-PySpark
 Identifying spam emails using Random Forest 
 
 You can find the notebook here: [Spam_prediciton](https://github.com/ankit141193/Random-Forest-Using-PySpark/blob/master/Spam%2BMail%2BPrediction.ipynb)
